@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="de468a20-b0b6-484b-9f63-9f2e93541899" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/MasteringTheFundamentals/CHALLENGE5/Q1SummationGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MasteringTheFundamentals/CHALLENGE5/Q2LCMEasy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MasteringTheFundamentals/CHALLENGE5/Q3WhileLoop1MCQG.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MasteringTheFundamentals/CHALLENGE5/Q4Forloop2MCQJ.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MasteringTheFundamentals/CHALLENGE5/Q5ForLoop2MCQI.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
